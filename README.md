@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Oxanium&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+MZYang223;I'm+a+Web+Developer;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Oxanium&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+MZYang223;I'm+a+Web+Developer;Welcome+to+my+GitHub+account!)](https://git.io/typing-svg)
 
 ### 📫 Contact
 - 📧 Email: **maizenyang322@gmail.com**
